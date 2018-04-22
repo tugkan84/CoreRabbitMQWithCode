@@ -1,0 +1,10 @@
+D:\Egitim\CoreRabbitMqWithCode\Send\bin\Debug\netcoreapp2.0\Send.deps.json
+D:\Egitim\CoreRabbitMqWithCode\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.json
+D:\Egitim\CoreRabbitMqWithCode\Send\bin\Debug\netcoreapp2.0\Send.runtimeconfig.dev.json
+D:\Egitim\CoreRabbitMqWithCode\Send\bin\Debug\netcoreapp2.0\Send.dll
+D:\Egitim\CoreRabbitMqWithCode\Send\bin\Debug\netcoreapp2.0\Send.pdb
+D:\Egitim\CoreRabbitMqWithCode\Send\obj\Debug\netcoreapp2.0\Send.csproj.CoreCompileInputs.cache
+D:\Egitim\CoreRabbitMqWithCode\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfoInputs.cache
+D:\Egitim\CoreRabbitMqWithCode\Send\obj\Debug\netcoreapp2.0\Send.AssemblyInfo.cs
+D:\Egitim\CoreRabbitMqWithCode\Send\obj\Debug\netcoreapp2.0\Send.dll
+D:\Egitim\CoreRabbitMqWithCode\Send\obj\Debug\netcoreapp2.0\Send.pdb
