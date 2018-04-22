@@ -2,6 +2,7 @@
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using System.Text;
+using Newtonsoft.Json;
 
 namespace Recieve
 {
@@ -21,7 +22,8 @@ namespace Recieve
                 {
                     var body = ea.Body;
                     var message = Encoding.UTF8.GetString(body);
-                    Console.WriteLine("[x] Recieved {0}", message);
+                    Message newMsg = JsonConvert.DeserializeObject<Message>(message);
+                    Console.WriteLine("[x] Recieved {0}", newMsg.Comment);
                 };
                 channel.BasicConsume(queue: "hello", autoAck: true, consumer: consumer);
                 
